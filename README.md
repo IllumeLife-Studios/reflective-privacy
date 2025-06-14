@@ -1,6 +1,3 @@
-# reflective-privacy
-Privacy page for Google Play Store listing.
-
 # Privacy Policy for Reflective
 
 Last Updated: June 14, 2025
