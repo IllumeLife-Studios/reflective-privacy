@@ -120,7 +120,7 @@ This app is not intended for use by children under 13. We do not knowingly colle
 - We are not liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from your use of the app
 
 ### 6. Indemnification
-By using the app, you agree to indemnify and hold harmless [Your Company Name] and its affiliates, officers, agents, and employees from any claims, liabilities, damages, losses, and expenses, including without limitation reasonable legal and accounting fees, arising out of or in any way connected with your access to or use of the app.
+By using the app, you agree to indemnify and hold harmless "IllumeLife Studios" and its affiliates, officers, agents, and employees from any claims, liabilities, damages, losses, and expenses, including without limitation reasonable legal and accounting fees, arising out of or in any way connected with your access to or use of the app.
 
 ## Changes to This Policy
 We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page and updating the "Last Updated" date.
