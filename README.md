@@ -3,7 +3,7 @@ Privacy page for Google Play Store listing.
 
 # Privacy Policy for Reflective
 
-Last Updated: [Current Date]
+Last Updated: June 14, 2025
 
 ## Introduction
 Reflective is a personal diary application that helps you record your thoughts, memories, and experiences. This privacy policy explains how we collect, use, and protect your personal information.
