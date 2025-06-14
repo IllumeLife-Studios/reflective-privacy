@@ -3,7 +3,7 @@
 Last Updated: June 14, 2025
 
 ## Introduction
-Reflective is a personal diary application that helps you record your thoughts, memories, and experiences. This privacy policy explains how we collect, use, and protect your personal information.
+Reflective is a personal diary application that helps you record your thoughts, memories, and experiences. This privacy policy explains how we (IllumeLife Studios) collect, use, and protect your personal information.
 
 ## Information We Collect
 
